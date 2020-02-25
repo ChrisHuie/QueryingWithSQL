@@ -1,4 +1,4 @@
-*Query Order*
+**Query Order**
 
 1. SELECT
 2. FROM
@@ -10,10 +10,11 @@
 8. ORDER BY (asc/desc)
 
 
-*Selecting Range*
+**electing Range**
 Distinct | Top 
 
-*Where Clause Operators*
+
+**here Clause Operators**
 =
 >
 <
