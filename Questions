@@ -16,4 +16,15 @@
 6. What [City] has a zipcode that is in between the numbers of 77478 and 77483? What are 2 errors you see?
 
 
-7. 
+7. What is the [IncorporatationType] of a company in this table that is in the country of Cananda and has an [EntityOwner] of 'TAGSB'?
+
+
+8. What are the two [FilterClient] records that have a [LegalName] of Wells Fargo Bank but we do not have an address for?
+
+
+9. How many records in this table either have a [UserType] of CPA or have a [StartDate] of July 1st, 2015?
+
+
+10. What guy in this table is out of the [Country] and works the day [Shift]?
+
+
