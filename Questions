@@ -1,0 +1,19 @@
+1. What are all the different [EntityType]s that currently exist in this table? 
+
+
+2. What is the [EntityOwner] of a record in this table who lives in the small city of Alex?
+
+
+3. How many rows in this table are there that do not have a [ContactMethod]? (Hint- There is a phrase in SQL that checks for this)
+
+
+4. What is the name of the Tax Agency that we also don't have a [ContactMethod] for? (Hint- A blank value is treated differently) 
+
+
+5. How many records are in this table who have a [StartDate] in 2020?
+
+
+6. What [City] has a zipcode that is in between the numbers of 77478 and 77483? What are 2 errors you see?
+
+
+7. 
